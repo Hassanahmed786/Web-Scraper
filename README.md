@@ -1,4 +1,3 @@
-# CodeClauseInternship_WebScraper
 # Web Scraper
 
 This project is a simple Python web scraper that extracts information from a specified website using `requests` and `BeautifulSoup`.
